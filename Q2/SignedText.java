@@ -14,6 +14,16 @@ public class SignedText{
         return firstName.substring(0, 1) + "-" + lastName;
     }
     public String addSignature(String text) {
-    String signature = getSignature();
+       String signature = getSignature();
+
+       int index = text.indexOf(signature);
+
+       if (index != -1) {
+           return text.substring(0, index) + text.substring(index + signature.length()) + signature;
+       }
+      
+       return text + signature;
+   }
+
 
 }
