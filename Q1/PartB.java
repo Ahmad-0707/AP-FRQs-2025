@@ -4,8 +4,9 @@ public int dogWalkShift(int startHour, int endHour){
     for(int i = startHour;i <= endHour; i++){
         int dogsWalked = walkDogs(hour);
 
-        int pay = dogsWalked * 5;//Base pay
-
+        int pay = dogsWalked * 5;// earn $5 per dog waLked
+        
+        // earn a $3 bonus?
         if(dogsWalked == maxDogs || (hour >= 9 && hour <= 17)){
             pay += 3;
         }
