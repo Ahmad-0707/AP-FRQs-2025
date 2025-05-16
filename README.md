@@ -23,13 +23,10 @@ Practice using arrays and ArrayLists by writing programs that store and modify d
 ##Resources
 Resources I found helpful during my exam preparation and review:
 
-AP College Board:https://apstudents.collegeboard.org/
-Knowt: https://knowt.com/exams/AP/AP-Computer-Science-A
-[Resource name and link]
+-AP College Board:https://apstudents.collegeboard.org/
+-Knowt: https://knowt.com/exams/AP/AP-Computer-Science-A
 
 ##Future Goals
 Moving forward, I plan to:
-
-[Specific goal related to computer science learning]
-[Project idea inspired by the exam content]
-[Study strategy for future computer science courses]
+ continue to improve my coding skills by learning different types of coding languages such as C.
+ use my knowledge on javascript to help get into interships and potentially an engineering job.
