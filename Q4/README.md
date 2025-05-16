@@ -18,5 +18,5 @@ create new puzzle and puzzle = (int) (Math.random () * 9) +1
   
 #### What I learned from revisiting this problem:
 
--Math.random from a minium to maxium
--double for loop
+- Math.random from a minium to maxium
+- double for loop
