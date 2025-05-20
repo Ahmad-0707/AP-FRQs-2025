@@ -3,7 +3,7 @@
 *Solutions by Ahmadjon O.*
 
 ## Introduction 
-This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
+This repository contains my solutions and reflections for the AP Computer Science exam taken on May 7, 2025. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
 
 #### Exam Experience 
 I reflect on my experience taking the AP Computer Science exam, highlighting key moments, challenges, and lessons learned.
