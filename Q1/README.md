@@ -15,7 +15,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 #### Key concepts tested in this question:
 
 - Method calls: Using company.numAvailableDogs() and company.updateDogs() to interact with the company object
-- For loops:
+- For loops: The loop helps you avoid writing the same code over and over for each hour of your shift.
 - If statements:if(maxDogs > numDogs) makes a simple decision: can you take all available dogs or just your maximum?
 - Variables:hours, numDogs, and maxDogs store important values you need to track
 
