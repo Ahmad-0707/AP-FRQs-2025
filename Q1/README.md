@@ -14,10 +14,10 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 
 #### Key concepts tested in this question:
 
-- Method calls
-- For loops
-- If statements 
-- Variables
+- Method calls: Using company.numAvailableDogs() and company.updateDogs() to interact with the company object
+- For loops:
+- If statements:if(maxDogs > numDogs) makes a simple decision: can you take all available dogs or just your maximum?
+- Variables:hours, numDogs, and maxDogs store important values you need to track
 
 #### What I learned from revisiting this problem:
 
