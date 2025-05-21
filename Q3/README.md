@@ -10,15 +10,17 @@ This section contains my analysis of Question 3 (Arrays and ArrayLists):
 
 #### My revised solution after review:
 
-- use competitorList.add 
+- Used competitorList.add() to put competitors in list. Each competitor gets a name and number
 
 #### Key concepts tested in this question:
 
-- Make a new ArrayList
-- Use for loop and use .add in the for loop to add the names in the list
+- Making ArrayList: new ArrayList<>();
+- Using for loop to process names
+- Using .add() to put things in list
 
 #### What I learned from revisiting this problem:
 
-- New ArrayList<>();
-- .add in the ArrayList
+- How to create ArrayList
+- How to add items to it
+- How to process names one by one
 
